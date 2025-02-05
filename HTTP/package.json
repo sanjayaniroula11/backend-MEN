@@ -1,0 +1,11 @@
+{
+  "name": "lhttp",
+  "version": "1.0.0",
+  "main": "scripts1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanjaya",
+  "license": "ISC",
+  "description": ""
+}

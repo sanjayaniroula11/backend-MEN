@@ -1,0 +1,19 @@
+{
+  "name": "backend-men",
+  "version": "1.0.0",
+  "description": "Learning backend through YouTube and creating a repository. Making sure everything is saved properly.",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayaniroula11/backend-MEN.git"
+  },
+  "author": "sanjaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayaniroula11/backend-MEN/issues"
+  },
+  "homepage": "https://github.com/sanjayaniroula11/backend-MEN#readme"
+}
